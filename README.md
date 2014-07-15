@@ -12,4 +12,4 @@ Ironhack Workshops
 Kiko will develop a sample API with Sails.js and Ricard will implement the front-end on top of the API. Attendees will be asked to choose front-end or back-end and one at a time they will program in front of everyone a part of either the back-end or the front-end. Everyone can try both but only after each person has passed once through the computer. Only one computer will be used by everyone.
 
 Attendees:
-  * Put your name here
+  * Jane Heather Dee
