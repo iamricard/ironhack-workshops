@@ -14,3 +14,4 @@ Kiko will develop a sample API with Sails.js and Ricard will implement the front
 Attendees:
   * Jane Heather Dee
   * Jordi González
+  * Elena Torró
