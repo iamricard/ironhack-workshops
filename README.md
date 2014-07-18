@@ -15,3 +15,4 @@ Attendees:
   * Jane Heather Dee
   * Jordi González
   * Elena Torró
+  * Xavier Simó
